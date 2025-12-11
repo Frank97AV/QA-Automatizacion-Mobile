@@ -24,7 +24,7 @@ public class HomeStepDef {
     public void estoyEnLaAplicaciónDeauceLabs(){
         // Implementación del paso
         assertThat(MobileDriverManager.getDriver()).isNotNull();
-        Screensho;
+
     }
     @And("valido que carguen correctamente los productos en la galeria")
     public void validoQueCarguenCorrectamenteLosProductosEnLaGaleria() {
